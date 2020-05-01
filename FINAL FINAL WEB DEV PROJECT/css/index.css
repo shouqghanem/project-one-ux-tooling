@@ -2,7 +2,8 @@ body {
   font: 1em helvetica, arial, sans-serif;
   background-color: white;
   color: #222;
-  
+   text-align: center; 
+  margin: 80px;
 }
 h1{
   text-align: center;
