@@ -83,6 +83,6 @@ You will be assessed on the following criteria:
   - Absolutely
 - *Does this have to be responsive to small screens (mobile)?*
   - Ideally. The more responsive, the better the grade.
-
+updates: add text align and margin so the website will looks better.
 
 
